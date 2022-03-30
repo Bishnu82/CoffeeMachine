@@ -1,0 +1,26 @@
+content:
+- Overview of the basic program
+- Multi-line programs
+- Comments
+- Basic data types (1)
+- Integer arithmetic
+- Taking input
+- Program with numbers
+- Invoking a function
+- Comparisons
+- If statement
+- Else statement
+- Elif statement
+- Declaring a function (1)
+- Scopes
+- Functional decomposition
+- List
+- While loop
+- For loop
+- Quotes and multi-line strings
+- String formatting
+- Class
+- Class instances
+- Methods
+- Methods and attributes
+- Magic methods
